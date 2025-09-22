@@ -40,12 +40,12 @@ Your HTML page must include:
 
 ---
 
-## 🎁 Peer Feedback (Variable Reward)
+## 🎁 Peer Feedback 
 
 After submitting your page:
 
 - You’ll receive feedback from at least **two classmates** chosen at random.
-- A few standout pages will be showcased at the start of the next session (surprise reward!).
+- A few standout pages will be showcased at Across Geekink Socail Media
 
 ---
 
