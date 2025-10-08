@@ -10,48 +10,47 @@ This helps your peer know exactly where to improve.
 
 ### 1. Structure – Proper HTML tags and indentation  
 - [ ] Meets requirement  
-💬 Comment:
-
+💬 Comment: Partially meets
 ---
 
 ### 2. Content – Headline, paragraph, ≥3 images, ≥2 links, contact form  
 - [ ] Meets requirement  
-💬 Comment:
+💬 Comment: No image, No paragraph, No links
 
 ---
 
 ### 3. Functionality – Links work, form fields present  
 - [ ] Meets requirement  
-💬 Comment:
+💬 Comment: No
 
 ---
 
 ### 4. Creativity – Topic chosen and how it’s presented  
 - [ ] Meets requirement  
-💬 Comment:
+💬 Comment: No
 
 ---
 
 ### 5. Clarity – Text and layout easy to read  
 - [ ] Meets requirement  
-💬 Comment:
+💬 Comment: Yes all good
 
 ---
 
 ## ✍️ Additional Feedback
 
 **What I liked:**  
-💬
+💬 I like the overview
 
 **What could be improved:**  
-💬
+💬 the site should contain the assignment
 
 **Specific recommendations:**  
 💬
 
 ---
 
-⭐ **Overall impression:** (👍 / 👎 / 😎)  
+⭐ **Overall impression:** (👍 / 👎 / 😎)  😎
 
-### Peer Reviewer: *[Your Name]*
+### Peer Reviewer: *[Garko_Jr]*
 
